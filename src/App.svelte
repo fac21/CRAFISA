@@ -24,7 +24,9 @@
 		text-transform: uppercase;
 		font-size: 5em;
 		font-weight: 700;
-	}
+    pointer-events: none;
+  }
+  
   h2 {
     color: rgb(49, 119, 52);
     text-shadow: 5px 5px 5px white;
@@ -33,6 +35,7 @@
     bottom: 10%;  
     font-size: 3em;
     font-weight: 500;
+    pointer-events: none;
   }
-  
+
 </style>
