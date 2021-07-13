@@ -30,8 +30,9 @@
     text-shadow: 5px 5px 5px white;
     position: absolute;
     width: 100%;
-    bottom: 10%;
+    bottom: 10%;  
     font-size: 3em;
     font-weight: 500;
   }
+  
 </style>
