@@ -5,7 +5,7 @@
 </script>
 
 <main style='background: url("tablecloth.jpg");'>
-	<h1>Hello {name}!</h1>
+	<h1>PIZZA {name}!</h1>
   <Box bind:score={score} />
   <h2>Score: {score}</h2>
 </main>
@@ -26,7 +26,7 @@
 		font-weight: 700;
     pointer-events: none;
   }
-  
+
   h2 {
     color: rgb(49, 119, 52);
     text-shadow: 5px 5px 5px white;
