@@ -44,7 +44,6 @@ alt="Antonio's nightmare"/>
 
 <style>
   img {
-    
     position: absolute;
     height: 200px;
     width: 200px;
